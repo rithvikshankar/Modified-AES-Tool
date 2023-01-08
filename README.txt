@@ -1,7 +1,4 @@
-# Modified AES Tool
- An image and text encryption tool which implements a research paper that proposes a modified version of AES encryption. 
-
-### Instructions to run the project code:
+Instructions to run the project code:
 
 1. Install Python 3
 
