@@ -5,9 +5,9 @@
 
 1. Install Python 3
 
-2. Open terminal and type
-	py -3 AES_Tool.py (Windows)
-	python3 AES_Tool.py (UNIX)
+2. Open terminal and type\
+	&emsp; py -3 AES_Tool.py (Windows)\
+	&emsp; python3 AES_Tool.py (UNIX)
 
 3. Follow the instructions in the tool
 
